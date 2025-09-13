@@ -1,0 +1,17 @@
+# Node.js dependencies (if you later add npm)
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
