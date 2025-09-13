@@ -74,5 +74,3 @@ cd my_portfolio
 - `script.js` → Website interactivity  
 
 ---
-
-👨‍💻 Built from scratch with ❤️ and deployed free using GitHub Pages.
